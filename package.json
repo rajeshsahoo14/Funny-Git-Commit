@@ -1,0 +1,24 @@
+{
+  "name": "funny-git-commit",
+  "version": "1.0.3",
+  "description": "A random funny commit message generator 😂",
+  "main": "commits.js",
+  "bin": {
+    "funny-commit": "commits.js"
+  },
+  "type": "module",
+  "keywords": [
+    "git",
+    "commit",
+    "funny",
+    "jokes",
+    "meme",
+    "generator",
+    "random",
+    "cli",
+    "developer-tools",
+    "commit-message"
+  ],
+  "author": "Rajesh Sahoo <sahoor859@gmail.com>",
+  "license": "MIT"
+}

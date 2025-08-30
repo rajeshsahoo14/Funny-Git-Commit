@@ -1,6 +1,6 @@
 {
   "name": "funny-git-commit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "😂 A hilarious random commit message generator for your Git workflow. Spice up boring commits with memes, jokes & witty messages!",
   "main": "commits.js",
   "bin": {

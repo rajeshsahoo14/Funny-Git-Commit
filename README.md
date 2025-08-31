@@ -30,13 +30,16 @@ npm install funny-git-commit
 CLI
 
 Run in your terminal:
-
+```bash
 funny-commit
+```
 
 Example output:
+```bash
 Oops, forgot to save before commit
 Refactored code to look busy
 Made the code compile, not sure if it works
+```
 
 🤔 Why?
 

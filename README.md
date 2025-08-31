@@ -1,73 +1,66 @@
-# 😂 funny-git-commit
+😂 Funny Git Commit Generator
+<div align="center"> <img src="https://media.giphy.com/media/fQZX2aoRC1Tqw/giphy.gif" width="250" /> <h3>Because writing serious commit messages is overrated 😎</h3> </div>
+# 😂 Funny Git Commit
 
-<p align="center">
-  <img src="https://i.imgur.com/2yaf2wb.png" width="250" alt="Funny Commit Logo">
-</p>
-
-<p align="center">
-  <b>Spice up your boring git commits with random jokes, memes & witty one-liners 🎉</b>
-</p>
-
-<p align="center">
-  <a href="https://www.npmjs.com/package/funny-git-commit">
-    <img src="https://img.shields.io/npm/v/funny-git-commit?color=brightgreen&style=for-the-badge" alt="npm version">
-  </a>
-  <a href="https://www.npmjs.com/package/funny-git-commit">
-    <img src="https://img.shields.io/npm/dt/funny-git-commit?color=blue&style=for-the-badge" alt="npm downloads">
-  </a>
-  <a href="https://github.com/rajesh-sahoo/funny-git-commit/stargazers">
-    <img src="https://img.shields.io/github/stars/rajesh-sahoo/funny-git-commit?style=for-the-badge&color=yellow" alt="GitHub stars">
-  </a>
-</p>
+A **random funny commit message generator** for developers who are tired of boring commit messages like `fixed bug` or `added feature`.  
+Make your git history fun, quirky, and sometimes… questionable 👀.
 
 ---
 
-## 🌟 What is this?
-Writing commit messages is **boring** 😴 … so let’s make it **funny** 🤡!  
+## ✨ Features
 
-`funny-git-commit` randomly generates hilarious commit messages like:
-- `"Fixed bug that never existed"`
-- `"Added a semicolon because life needs balance ;)"`  
-- `"Oops, did I just break production?"`
+- Generate hilarious commit messages instantly 🎉  
+- Use it as a **CLI tool** or **import it in code**  
+- Lightweight & beginner-friendly  
 
 ---
 
-## 🚀 Installation
+## 📦 Installation
 
+### Global install
 ```bash
 npm install -g funny-git-commit
-🎯 Usage
-Generate a random commit message:
 
-bash
-Copy code
+```
+Local install (inside a project)
+```bash 
+npm install funny-git-commit
+```
+🚀 Usage
+CLI
+
+Run in your terminal:
+```bash
 funny-commit
+```
+
 Example output:
-
-css
-Copy code
+```bash
+Oops, forgot to save before commit
+Refactored code to look busy
 Made the code compile, not sure if it works
-Use it directly in Git commits:
+```
 
-bash
-Copy code
-git commit -m "$(funny-commit)"
-🎉 Why use this?
-✅ Add fun to your commits
-✅ Surprise your teammates
-✅ Perfect for hackathons, memes & side projects
-✅ Because serious commits are overrated 😎
+🤔 Why?
 
-🛠 Example in Action
-<p align="center"> <img src="https://i.imgur.com/GR4oC8y.gif" alt="Funny Commit Demo" width="500"> </p>
-🧑‍💻 Contributing
-Wanna add your own funny commit messages?
-Fork this repo & PR your jokes! 💡
+Because life’s too short for boring commit logs.
+Make your teammates laugh (or cry) while reading git log! 😅
 
-📦 Links
-NPM: funny-git-commit
+🛠️ Contributing
 
-GitHub: rajesh-sahoo/funny-git-commit
+Want to add more funny messages? Contributions are welcome!
+
+Fork this repo
+
+Add your messages to funnyCommits.js
+
+Open a Pull Request 🎯
 
 📜 License
-MIT © Rajesh Sahoo
+
+MIT License – free to use, modify, and share.
+
+
+👨‍💻 Author
+
+Made with ❤️ + ☕ by Rajesh Sahoo

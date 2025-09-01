@@ -53,7 +53,7 @@ const funnyCommits=[
   "Turned coffee into code ☕➡️💻",
   "Ship it 🚢",
   "Added Easter egg nobody will find 🥚",
-  "Commit message not found 404",
+  "Commit message not found 404!",
   "Half-baked feature added 🍞",
   "Accidentally wrote a feature instead of fixing bug",
   "Fixed everything by deleting everything",

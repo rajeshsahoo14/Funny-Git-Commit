@@ -99,6 +99,16 @@ const funnyCommits=[
   "Added more bugs for job security",
   "Quick fix (aka permanent bug)",
   "Fixed typo in commit message",
-  "Accidentally committed my soul to Git"
+  "Accidentally committed my soul to Git",
+  "Works on my machine 💻",
+  "Fixed bug, created 99 more 🐛",
+  "Made the code compile, not sure if it works",
+  "Refactored code to look busy",
+  "Optimized something nobody asked for",
+  "Fixed typo that broke everything",
+  "Removed console.log for professionalism",
+  "Added console.log for debugging 🔥",
+  "Half commit, half prayer 🙏",
+  "Copy-pasted from StackOverflow",
 ];
 export default funnyCommits;

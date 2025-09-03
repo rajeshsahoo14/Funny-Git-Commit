@@ -58,9 +58,9 @@ Open a Pull Request 🎯
 
 ## 📜 License
 
-## MIT License – free to use, modify, and share.
+### MIT License – free to use, modify, and share.
 
 
 ## 👨‍💻 Author
 
-## Made with ❤️ + ☕ by Rajesh Sahoo
+### Made with ❤️ + ☕ by Rajesh Sahoo

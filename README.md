@@ -56,9 +56,9 @@ Add your messages to funnyCommits.js
 
 Open a Pull Request 🎯
 
-📜 License
+## 📜 License
 
-MIT License – free to use, modify, and share.
+## MIT License – free to use, modify, and share.
 
 
 ## 👨‍💻 Author

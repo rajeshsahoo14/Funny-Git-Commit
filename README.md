@@ -48,7 +48,7 @@ Make your teammates laugh (or cry) while reading git log! 😅
 
 🛠️ Contributing
 
-Want to add more funny messages? Contributions are welcome!
+Want to add more funny messages? Contributions are welcome!!
 
 Fork this repo
 

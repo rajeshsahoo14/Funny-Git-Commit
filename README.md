@@ -48,7 +48,7 @@ Make your teammates laugh (or cry) while reading git log! 😅
 
 🛠️ Contributing
 
-Want to add more funny messages? Contributions are welcome!
+Want to add more funny messages? Contributions are welcome!!
 
 Fork this repo
 
@@ -56,11 +56,11 @@ Add your messages to funnyCommits.js
 
 Open a Pull Request 🎯
 
-📜 License
+## 📜 License
 
-MIT License – free to use, modify, and share.
+### MIT License – free to use, modify, and share.
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Made with ❤️ + ☕ by Rajesh Sahoo
+### Made with ❤️ + ☕ by Rajesh Sahoo

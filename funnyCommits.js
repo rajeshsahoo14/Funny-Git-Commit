@@ -19,7 +19,7 @@ const funnyCommits=[
   "Ship it! We'll fix it later ⛵",
   "Commit first, think later 😬",
   "Refactored code to impress my rubber duck 🦆",
-  "Works on my machine 💻✔️",
+  "Works on my machine 💻",
   "Wrote TODOs I’ll never do 📝",
   "Added comments so future me can suffer less 😅",
   "Renamed variables to confuse my teammates 🤡",
@@ -111,4 +111,7 @@ const funnyCommits=[
   "Half commit, half prayer 🙏",
   "Copy-pasted from StackOverflow",
 ];
-export default funnyCommits;
+
+const newfunnyCommits=[...new Set(funnyCommits)];
+
+export default newfunnyCommits;

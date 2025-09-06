@@ -1,9 +1,9 @@
 #!/usr/bin/env node
-import funnyCommits from "./funnyCommits.js";
+import newfunnyCommits from "./funnyCommits.js";
 
 function getRandomCommit() {
-  const index = Math.floor(Math.random() * funnyCommits.length);
-  return funnyCommits[index];
+  const index = Math.floor(Math.random() * newfunnyCommits.length);
+  return newfunnyCommits[index];
 }
 
 console.log(getRandomCommit());

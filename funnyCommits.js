@@ -445,7 +445,27 @@ const funnyCommits = [
   "Fixed merge conflict by deleting everything.",
   "Security fix: replaced HTTPS with ‘trust me bro’.",
   "Improved error messages: now they’re funnier.",
-  "Unit tests? Nah, I believe in integration prayers."
+  "Unit tests? Nah, I believe in integration prayers.",
+  "Replaced all ‘var’ with ‘let’. Feeling modern now.",
+  "Changed color scheme. Because dark mode = productivity.",
+  "Documentation added. Lies, all lies.",
+  "Added loading spinner. It spins forever.",
+  "Legacy code removed. Ghost of it still haunts me.",
+  "Updated README with more lies.",
+  "Code now runs faster… because I commented out the slow part.",
+  "Added logging. Now logs are more confusing.",
+  "Silent commit. Shhh 🤫",
+  "Bug fixed. Celebration scheduled at 5 PM.",
+  "Removed unused code. Will probably need it tomorrow.",
+  "Made the function recursive. Accidentally summoned Satan.",
+  "Turned hardcoded values into harder-coded values.",
+  "Debug mode permanently on. Because I live in chaos.",
+  "Patched memory leak by turning off the computer.",
+  "Replaced array with hashmap. Feels smarter already.",
+  "This commit cures insomnia. Just read the diff.",
+  "Moved fast and broke things. Mission accomplished.",
+  "Replaced magic numbers with even more magical numbers.",
+  "Added comments that explain nothing.",
 ];
 
 const newfunnyCommits = [...new Set(funnyCommits)];

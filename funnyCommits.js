@@ -426,6 +426,26 @@ const funnyCommits = [
   "Half the tests pass. The other half are just wrong.",
   "Moved code around so Git thinks I did something.",
   "Applied duct tape solution. Should hold for now.",
+  "Code works on my machine. Good luck elsewhere.",
+  "Deleted important file. Oops. Restored from Stack Overflow.",
+  "Added feature flag that does nothing but looks cool.",
+  "Set all warnings to errors. Chaos ensued.",
+  "Temporary fix… permanent problem.",
+  "Hardcoded everything. Ship it!",
+  "Removed console.logs. The app immediately broke.",
+  "Version 2.0: same bugs, better excuses.",
+  "Renamed variables for better readability. Now I can’t read them.",
+  "Optimized algorithm… now takes twice as long.",
+  "I swear this made sense at 3 AM.",
+  "Just pressed random keys until it compiled.",
+  "Migrated to new framework. Broke everything.",
+  "Made the UI responsive. To my cat walking on the keyboard.",
+  "Added Easter egg nobody will ever find.",
+  "This commit is dedicated to future archaeologists of my code.",
+  "Fixed merge conflict by deleting everything.",
+  "Security fix: replaced HTTPS with ‘trust me bro’.",
+  "Improved error messages: now they’re funnier.",
+  "Unit tests? Nah, I believe in integration prayers."
 ];
 
 const newfunnyCommits = [...new Set(funnyCommits)];

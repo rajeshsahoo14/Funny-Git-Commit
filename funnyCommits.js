@@ -485,7 +485,7 @@ const funnyCommits = [
   "Backend is now frontend. Don’t ask.",
   "Tried to make it async. Now it never syncs.",
   "Fixed everything. Broke something else.",
-  "My code’s running faster because I stopped running tests.",
+  "My code’s running faster because I stopped running tests."
 ];
 
 const newfunnyCommits = [...new Set(funnyCommits)];

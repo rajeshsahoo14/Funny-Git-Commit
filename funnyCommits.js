@@ -534,7 +534,6 @@ const funnyCommits = [
   "Backend and frontend are no longer on speaking terms.",
   "Made a small change. System collapsed.",
   "Updated dependencies like a daredevil.",
-  "Everything’s on fire, but at least it’s consistent.",
 ];
 
 const newfunnyCommits = [...new Set(funnyCommits)];

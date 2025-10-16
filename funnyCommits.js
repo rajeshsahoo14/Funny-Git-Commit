@@ -533,7 +533,7 @@ const funnyCommits = [
   "This commit fixes nothing and breaks everything.",
   "Backend and frontend are no longer on speaking terms.",
   "Made a small change. System collapsed.",
-  "Updated dependencies like a daredevil.",
+  "Updated dependencies like a daredevil."
 ];
 
 const newfunnyCommits = [...new Set(funnyCommits)];

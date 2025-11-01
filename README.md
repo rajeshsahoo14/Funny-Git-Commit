@@ -5,7 +5,7 @@
 A **random funny commit message generator** for developers who are tired of boring commit messages like `fixed bug` or `added feature`.  
 Make your git history fun, quirky, and sometimes… questionable 👀.
 
----
+--- 
 
 ## ✨ Features
 

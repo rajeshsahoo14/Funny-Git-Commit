@@ -583,7 +583,6 @@ const funnyCommits = [
   "Patched a hole. Found three new ones.",
   "If you can read this, I’m sorry.",
   "Fixed bug using sheer willpower.",
-  "Left some print statements for emotional support.",
 ];
 
 const newfunnyCommits = [...new Set(funnyCommits)];

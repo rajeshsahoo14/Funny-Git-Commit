@@ -10,7 +10,7 @@ Make your git history fun, quirky, and sometimes… questionable 👀.
 ## ✨ Features
 
 - Generate hilarious commit messages instantly 🎉  
-- Use it as a **CLI tool** or **import it in code**  
+- Use it as a **CLI tool** or **import it in code**   
 - Lightweight & beginner-friendly  
 
 ---
